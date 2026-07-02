@@ -1,0 +1,23 @@
+import numpy as np
+
+# Create 4x5 matrix with random integers between 20 and 80
+arr = np.random.randint(20, 81, size=(4, 5))
+
+# Print matrix
+print("Matrix:")
+print(arr)
+
+# Statistical methods for entire matrix
+print("\nMinimum value:", arr.min())
+print("Maximum value:", arr.max())
+
+print("Sum of all elements:", arr.sum())
+print("Mean:", arr.mean())
+print("Standard Deviation:", arr.std())
+
+# Row and column sums
+print("\nSum of each row:")
+print(arr.sum(axis=1))
+
+print("\nSum of each column:")
+print(arr.sum(axis=0))

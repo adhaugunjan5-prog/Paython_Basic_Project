@@ -1,0 +1,11 @@
+print("Question 1") 
+square=lambda x:x**2
+x=int(input("enter number: "))
+print("square: ",square(x))
+
+n=int(input("enter number: "))
+def _square(n):
+  print(n**2)
+
+
+_square(n)śs

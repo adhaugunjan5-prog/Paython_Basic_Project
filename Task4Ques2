@@ -1,0 +1,7 @@
+print("Question 2") 
+add_three=lambda a,b,c: a+b+c 
+a=int(input("enter 1st number: ")) 
+b=int(input("enter 2nd number: "))
+c=int(input("enter 3rd number: "))
+
+print("addition: ",add_three(a,b,c))
