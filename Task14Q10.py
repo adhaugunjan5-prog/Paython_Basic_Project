@@ -1,6 +1,7 @@
 import numpy as np
 print("Question 10: ")
 # Generate marks of 10 students and 5 subjects
+
 marks = np.random.randint(30,101,(10,5))
 
 print("Student Marks:")
@@ -53,4 +54,3 @@ print(marks[top3])
 # argmin() -> Finds lowest scorer.
 # argsort() -> Sorts totals and helps find top students.
 # reshape() -> Changes array shape without changing data.
-

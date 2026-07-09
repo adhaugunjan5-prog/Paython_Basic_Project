@@ -20,5 +20,3 @@ print(a**b)
 
 print("\nModulo:")
 print(a%b)
-
-
