@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,StudyHours,Attendance,Marks,Result
+1,Aarav,19,Male,2.5,88,72,Pass
+2,Diya,20,Female,4.0,95,91,Pass
+3,Vihaan,18,Male,1.5,76,58,Pass
+4,Anaya,19,Female,3.0,82,67,Pass
+5,Kabir,20,Male,5.0,98,96,Pass
+6,Sara,18,Female,2.0,70,49,Fail
+7,Rohan,19,Male,3.5,90,84,Pass
+8,Meera,20,Female,4.5,97,93,Pass
+9,Arjun,18,Male,1.0,65,41,Fail
+10,Isha,19,Female,3.2,89,78,Pass
