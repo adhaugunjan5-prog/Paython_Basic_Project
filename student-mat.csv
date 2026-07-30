@@ -1,0 +1,11 @@
+school,sex,age,studytime,failures,absences,internet,G1,G2,G3
+GP,F,18,3,0,4,yes,14,15,15
+GP,M,17,2,1,10,yes,10,11,11
+MS,F,18,4,0,2,yes,16,17,17
+MS,M,19,1,2,20,no,8,9,10
+GP,M,17,2,0,5,yes,12,13,13
+MS,F,18,3,0,3,yes,15,16,16
+GP,M,19,2,1,12,no,9,10,10
+MS,F,17,4,0,1,yes,17,18,18
+GP,F,18,3,0,6,yes,13,14,14
+MS,M,19,1,2,18,no,7,8,9
