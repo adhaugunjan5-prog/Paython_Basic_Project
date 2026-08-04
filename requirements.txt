@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 scikit-learn
-scipy
-joblib
-threadpoolctl
 matplotlib
+seaborn
+joblib
